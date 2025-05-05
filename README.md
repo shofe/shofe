@@ -24,5 +24,4 @@ I am a dedicated learner in the ALX Software Engineering Program, specializing i
 - 🌐 Backend: FastAPI | Flask | REST APIs
 - 🧠 Tools: Git | GitHub | Docker | Redis | Linux
 - ⚙️ DevOps: CI/CD Basics | Testing | Debugging
-- 📦 Databases: MySQL | PostgreSQL | SQLite
-- 🧰 Others: Jetpack Compose | Retrofit | Alpha Vantage API | CoinGecko API
+- 📦 Databases: MySQL | PostgreSQL
